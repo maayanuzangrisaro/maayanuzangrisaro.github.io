@@ -691,7 +691,8 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 20px;
 }
 .address-block li i {
-  margin-right: 15px;
+  color: #FFFFFF;
+  margin-left: 15px;
   font-size: 20px;
   width: 20px;
 }
@@ -706,8 +707,8 @@ font header .navbar-default .navbar-nav li a:hover {
   display: inline-block;
 }
 .social-icons i {
-  color: #2C2C2C;
-  margin-right: 25px;
+  color: #FFFFFF;
+  margin-left: 25px;
   font-size: 25px;
 }
 .google-map {
